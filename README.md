@@ -3,7 +3,7 @@
 This repository contains materials regarding  **Symposium 2 - Nuts and Bolts of AI in Neurosurgery (Theoretical and Practical Session)**
 which has been ran on 14 February for the [1st World Conference of Computational Neurosurgery](https://wccns.com.au/) in Sydney
 
-We thanks Antonio Di Leva for inviting us to this great event.
+We thanks [Antonio Di Leva](https://mqneurosurgery.com.au/prof-antonio-di-ieva/) for inviting us to this great event.
 
 ## Overview of the Fundamentals of Deep Learning Models
 
