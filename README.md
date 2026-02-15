@@ -1,7 +1,7 @@
 # WCCNS
 
 This repository contains materials regarding  **Symposium 2 - Nuts and Bolts of AI in Neurosurgery (Theoretical and Practical Session)**
-which has been ran on 14 February for the (1st World Conference of Computational Neurosurgery)[https://wccns.com.au/] in Sydney
+which has been ran on 14 February for the !(1st World Conference of Computational Neurosurgery)[https://wccns.com.au/] in Sydney
 
 We thanks Antonio Di Leva for inviting us to this great event.
 
