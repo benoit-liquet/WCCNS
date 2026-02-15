@@ -7,7 +7,7 @@ We thanks Antonio Di Leva for inviting us to this great event.
 
 ## Overview of the Fundamentals of Deep Learning Models
 
-Presentation from Benoit Liquet (UPPA, France) is available [here]()
+Presentation from Benoit Liquet (UPPA, France) is available [here](Liquet-Weiland-Symposium2-14February-2pm.pdf)
 
 
 ## Practical Workflow
