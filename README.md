@@ -12,7 +12,10 @@ Presentation from Benoit Liquet (UPPA, France) is available [here](Liquet-Weilan
 
 ## Practical Workflow
 
-- The practical session was running by Ghasem Azemi (MQ). All the codes and data will be available as soon as possible
+- The practical session was running by Ghasem Azemi (MQ):
+    -  Slides are available [here](WCCNS_Symposium2_Ghasem_Azemi.pdf)
+    - [Colab Notebook](https://colab.research.google.com/drive/1I2N6Vo7Y6x1yH2FoZictvVjDfqc2Z7nC?usp=sharing)
+    - [Google Drive files (required to run the notebook)](https://drive.google.com/drive/folders/1LCTgspFYa-aDHl4kE0_miTYUh_jz0ECt?usp=sharing)
 
 - From Features to Decision Support was presenting by Eric Suero Molina. It is available [here]()
 
